@@ -1,6 +1,7 @@
 # AD1 Systems - Unit Converter
 
-# This was the first project I created in Python which explains why it's significantly long for such a simple project
+# This is a simple unit converter which helps convert from a variety of units
+# Note: this was one of the first projects I created (in 2022), hence why it is very long for such a simple project
 
 print("Which Conversion feature would you like to use? \n")
 print("1. Speed")
